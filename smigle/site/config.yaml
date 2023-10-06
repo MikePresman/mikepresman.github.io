@@ -3,7 +3,7 @@ baseURL: https://smigle-hugo-theme.netlify.app/ # Replace with your domain
 languageCode: en-us
 theme: smigle
 themesDir: ../.. # Only needed for running the example site
-title: Blog Title
+title: Mike Presman
 menu:
   main:
     - identifier: home
@@ -29,7 +29,7 @@ menu:
 params:
   abbrDateFmt: "Jan 2"
   author: "Blog Author"
-  brandIconFile: "images/brandIcon.svg"
+  brandIconFile: "images/dexter-ya.svg"
   dateFmt: "2006-01-02"
   ##
   ## Options for overriding theme or page defaults
@@ -41,13 +41,9 @@ params:
   #readingSpeedMax: 175 # Use to set custom reading speed range
   social:
     - name: GitHub
-      url: https://github.com/ian-s-mcb
-    - name: GitLab
-      url: https://gitlab.com/ian-s-mcb
-    - name: Quizlet
-      url: https://quizlet.com/ian-s-mcb
-    - name: Reddit
-      url: https://www.reddit.com/user/ian-s-mcb
-    - name: StackOverflow
-      url: https://stackoverflow.com/users/3417846/ian-s-mcb
-  subtitle: "Description about Blog Author"
+      url: https://github.com/mikepresman
+    - name: Linkedin
+      url: https://linkedin.com/inframike
+    - name: Twitter
+      url: https://Twitter.com/mikepresman
+  subtitle: "Infrastructure Engineer"
