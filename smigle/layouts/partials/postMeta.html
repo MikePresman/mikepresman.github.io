@@ -35,8 +35,8 @@
     <span style="font-size: 15px">Posted on</span>
     <time style="font-size: 14px">{{ .Date.Format (default "2006-01-02 15:04:05" .Site.Params.dateFmt) }}</time>
    {{ with .ReadingTime}}<span style="font-size: 15px"> • {{ $duration }} minute read</span>{{ end }}
-<div>
 
+  <div>
   <span style="font-size: 15px">Categories:</span>
 {{ range $key, $value := .Params.categories -}}
   {{- if $key }}, {{ end }}
