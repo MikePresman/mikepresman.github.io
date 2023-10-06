@@ -1,0 +1,6 @@
+[submodule "smigle-hugo-theme"]
+	path = smigle-hugo-theme
+	url = https://gitlab.com/ian-s-mcb/smigle-hugo-theme.git
+[submodule "theme/smigle"]
+	path = theme/smigle
+	url = https://gitlab.com/ian-s-mcb/smigle-hugo-theme
