@@ -32,10 +32,9 @@
 {{ end }}
 
 <div class="">
-  <strong>
     <span style="font-size: 15px">Posted on</span>
-    <time>{{ .Date.Format (default "2006-01-02 15:04:05" .Site.Params.dateFmt) }}</time>
-   {{ with .ReadingTime}}<span> • {{ $duration }} minute read</span>{{ end }}
+    <time style="font-size: 14px">{{ .Date.Format (default "2006-01-02 15:04:05" .Site.Params.dateFmt) }}</time>
+   {{ with .ReadingTime}}<span style="font-size: 15px"> • {{ $duration }} minute read</span>{{ end }}
 <div>
 
   <span style="font-size: 15px">Categories:</span>
@@ -46,13 +45,4 @@
 </div>
 
 
-  {{ with .Params.tags }}
-    <div>
-      <span style="font-size: 15px">Tags:</span>
-      {{ range $key, $value := . }}
-        {{- if $key }}, {{ end }}
-        <a style="margin-left:-5px; font-size:15px" href="{{ "/tags/" | relLangURL }}{{ $value | urlize }}">{{ . }}</a>
-      {{- end }}
-    </div>
-  {{ end }}
 </div>

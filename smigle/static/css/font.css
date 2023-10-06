@@ -1,21 +1,20 @@
 @font-face {
-  font-family: 'Iosevka';
-  src: local('Iosevka'),
-    url('/fonts/iosevka-regular.woff2') format("woff2");
+  font-family: "Iosevka";
+  src: local("Iosevka"), url("/fonts/iosevka-regular.woff2") format("woff2");
   font-weight: normal;
   font-style: normal;
 }
 @font-face {
-  font-family: 'Iosevka';
-  src: local('Iosevka'),
-    url('/fonts/iosevka-bold.woff2') format("woff2");
+  font-family: "Iosevka";
+  src: local("Iosevka"), url("/fonts/iosevka-bold.woff2") format("woff2");
   font-weight: bold;
   font-style: bold;
 }
 @font-face {
-  font-family: 'Iosevka';
-  src: local('Iosevka'),
-    url('/fonts/iosevka-oblique.woff2') format("woff2");
+  font-family: "Iosevka";
+  src: local("Iosevka"), url("/fonts/iosevka-oblique.woff2") format("woff2");
   font-weight: italic;
   font-style: italic;
 }
+
+@import url("https://fonts.googleapis.com/css2?family=Inconsolata&family=Montserrat:ital,wght@1,300&family=Victor+Mono:wght@100&display=swap");
