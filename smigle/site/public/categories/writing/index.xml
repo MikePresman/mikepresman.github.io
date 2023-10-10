@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>writing on Mike Presman</title>
+    <link>https://smigle-hugo-theme.netlify.app/categories/writing/</link>
+    <description>Recent content in writing on Mike Presman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://smigle-hugo-theme.netlify.app/categories/writing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Init</title>
+      <link>https://smigle-hugo-theme.netlify.app/posts/init/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://smigle-hugo-theme.netlify.app/posts/init/</guid>
+      <description>BEGIN Hey ! My name is Mike Presman and I am a 27 year old software infrastructure engineer working at gadget.dev as an SRE
+I love computers and tech. I want to spend the rest of my solving problems related to software, specifically infrastructure problems. For quite a while I&amp;rsquo;ve been fasctincated with solving complicated problems at scale and being curious about how others do it. After all its hard enough to solve a problem for one person so why not make it more interesting by trying to solve it for millions of people at once - for me, thats where the magic is.</description>
+    </item>
+    
+  </channel>
+</rss>
