@@ -10,9 +10,9 @@ categories:
 
 ### BEGIN
 
-Hey ! My name is Mike Presman and I am a 27 year old software infrastructure engineer working at gadget.dev as an SRE
+My name is Mike Presman and I'm a 27 year old software engineer on the infrastructure team at gadget.dev located in Ottawa, ON. Canada
 
-I love computers and tech.
+I just want to say welcome to my first post
 &nbsp;
 
 I want to spend the rest of my solving problems related to software, specifically infrastructure problems.
